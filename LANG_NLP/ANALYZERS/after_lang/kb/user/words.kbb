@@ -1,0 +1,13 @@
+words
+  would: pos=[verb,noun]
+  amaze: pos=[verb,noun]
+  because: pos=adv
+  either: pos=[det,pron,adv]
+  for
+  important: pos=adj
+  jump: pos=[verb,conj,noun,adv,adj]
+  large: pos=[adj,noun,adv]
+  since: pos=adv
+  some: pos=[pron,det,adv]
+  this: pos=[adv,pron,noun,interj]
+
