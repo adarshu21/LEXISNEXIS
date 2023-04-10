@@ -17,8 +17,8 @@ single();
 
 @RULES
 _pos <-
-	en																	### (1)
-	_xWILD [ one match=(\- \|)]											### (2)
-	_xWILD [ one match=(adj interj noun pron adj det adv conj verb)]	### (3)
-	@@
+	en							### (1)
+	_xWILD [ one match=(\- \|)]	### (2)
+	_xWILD [ one match=(adj adjective intj interj interjection noun art article prep preposition con conj conjunction pron pronoun det determiner adv adverb cont contraction verb proper noun)]	### (3)	
+@@
 

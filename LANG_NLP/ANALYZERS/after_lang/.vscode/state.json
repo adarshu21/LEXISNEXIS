@@ -3,8 +3,8 @@
         {
             "name": "Analyzer",
             "type": "state",
-            "currentTextFile": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang\\kb\\user\\word.kb",
-            "currentPassFile": "c:\\Users\\Adarsh\\Desktop\\LANG_NLP\\ANALYZERS\\after_lang\\spec\\pof.nlp"
+            "currentTextFile": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang\\kb\\user\\words.kbb",
+            "currentPassFile": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang\\spec\\output.nlp"
         }
     ]
 }

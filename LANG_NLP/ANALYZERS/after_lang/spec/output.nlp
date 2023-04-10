@@ -19,5 +19,20 @@ if (G("$islastfile") || !G("$isdirrun")) {
 }
 
 closefile(G("debug"));
+L("out")=cbuf();
+L("word")=down(G("words"));
+
+while (L("word")) {
+    L("pos")=findvals(L("word"),"pos");
+    if(L("pos"))
+    {
+        L("out") << "<word>" << conceptname(L("word")) << "<\word>" << "\n";
+    }
+    L("word") = next(L("word"));
+}
+
+
+
+
 
 @@CODE

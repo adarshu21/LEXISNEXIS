@@ -1,9 +1,4 @@
-0 0 [File not found=c:\Users\Adarsh\.vscode\extensions\dehilster.nlp-2.16.2\nlp-engine\data\rfb\spec\analyzer.seq]
-[No RFB.  Using the RFA for parsing rules.]
-0 0 [ERROR IN ANALYZER INIT.]
 [addAna: Named analyzer already present: c:\Users\Adarsh\Desktop\LEXISNEXIS\LANG_NLP\ANALYZERS\after_lang\]
 [con_add_root: Root concept of kb already exists.]
 [bind_sys: Enter.]
 [Loaded knowledge base.]
-0 0 [Exec analyzer time=0.29 sec]
-0 0 Active Algo count=1
