@@ -13,3 +13,7 @@ GO TO LANG_NLP -> ANALYSERS -> after_lang -> spec
 ==
 GO TO LANG_NLP -> ANALYSERS -> after_lang -> kb\user -> words.kbb
 
+3.FOR INPUT  
+==
+GO TO LANG_NLP -> ANALYSERS -> after_lang -> input
+
