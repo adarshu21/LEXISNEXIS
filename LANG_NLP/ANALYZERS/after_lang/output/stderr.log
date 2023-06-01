@@ -1,4 +1,6 @@
-[addAna: Named analyzer already present: c:\Users\Adarsh\Desktop\LEXISNEXIS\LANG_NLP\ANALYZERS\after_lang\]
+[addAna: Named analyzer already present: c:\Users\Adarsh\Downloads\NLP-ENGLISH-DICTIONARY\LANG_NLP\ANALYZERS\after_lang\]
 [con_add_root: Root concept of kb already exists.]
 [bind_sys: Enter.]
 [Loaded knowledge base.]
+0 0 [Exec analyzer time=3.885 sec]
+0 0 Active Algo count=1

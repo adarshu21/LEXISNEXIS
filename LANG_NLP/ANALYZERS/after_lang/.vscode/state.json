@@ -3,8 +3,8 @@
         {
             "name": "Analyzer",
             "type": "state",
-            "currentTextFile": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang\\kb\\user\\words.kbb",
-            "currentPassFile": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang\\spec\\output.nlp"
+            "currentTextFile": "c:\\Users\\Adarsh\\Downloads\\NLP-ENGLISH-DICTIONARY\\LANG_NLP\\ANALYZERS\\after_lang\\kb\\user\\vocab.dict",
+            "currentPassFile": "c:\\Users\\Adarsh\\Downloads\\NLP-ENGLISH-DICTIONARY\\LANG_NLP\\ANALYZERS\\after_lang\\spec\\kbBuild.nlp"
         }
     ]
 }

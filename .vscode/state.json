@@ -3,7 +3,7 @@
         {
             "name": "Analyzer",
             "type": "state",
-            "currentAnalyzer": "c:\\Users\\Adarsh\\Desktop\\LEXISNEXIS\\LANG_NLP\\ANALYZERS\\after_lang"
+            "currentAnalyzer": "c:\\Users\\Adarsh\\Downloads\\NLP-ENGLISH-DICTIONARY\\LANG_NLP\\ANALYZERS\\after_lang"
         }
     ]
 }

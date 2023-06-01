@@ -12,8 +12,6 @@ nlp	onlyText	# comment
 nlp	Lines	# comment
 nlp	RemoveWhiteSpace	# comment
 nlp	conjuWhiteSpace	# comment
-nlp	words	# comment
-nlp	phrases	# comment
 nlp	list	# comment
 nlp	headers	# comment
 nlp	ups	# comment

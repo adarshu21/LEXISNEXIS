@@ -13,7 +13,6 @@ S("header") = N("header",1);
 if(N("pofs",1)) 
 	S("pofs") = N("pofs",1);
 S("lang") = N("lang",1);
-"en.dict" << "either\n";
 single();
 
 @RULES
