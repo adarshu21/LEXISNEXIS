@@ -77,6 +77,6 @@
     },
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "git.ignoreLimitWarning": true,
-    "ecl.launchConfiguration": "not found",
+    "ecl.launchConfiguration": "localhost",
     "ecl.targetCluster": {}
 }
